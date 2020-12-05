@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 master edit testing hello branch 
-=======
-testing edit hello branch 
->>>>>>> testing
